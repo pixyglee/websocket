@@ -1,6 +1,3 @@
-
-
-```markdown
 # Project Setup and Execution
 
 ## Backend (WebSocket Server)
